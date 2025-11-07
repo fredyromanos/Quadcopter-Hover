@@ -1,4 +1,4 @@
-# Quadcopter-Hover
+# Quadcopter Control
 
 1. Matlab file to compute necessary data to use for the simulation.
 2. Simulink model to simulate a drone's altitude and thrust. Thrust is sent to esp8266, real altitude is received from it.
